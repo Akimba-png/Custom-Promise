@@ -1,0 +1,12 @@
+{
+  "name": "custom-promise",
+  "version": "1.0.0",
+  "description": "Самописная имплементация нативного Promise в JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akimov Oleg",
+  "license": "ISC"
+}
